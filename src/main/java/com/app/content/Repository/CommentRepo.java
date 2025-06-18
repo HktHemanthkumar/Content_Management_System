@@ -12,4 +12,5 @@ import com.app.content.Entity.Comment;
 @Repository
 public interface CommentRepo extends JpaRepository<Comment,Long> {
     
+    
 }
